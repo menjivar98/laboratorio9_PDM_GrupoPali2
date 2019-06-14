@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "165085302606",
+    "firebase_url": "https://sicor-f7d53.firebaseio.com",
+    "project_id": "sicor-f7d53",
+    "storage_bucket": "sicor-f7d53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165085302606:android:fb61b12b9b3eed3e",
+        "android_client_info": {
+          "package_name": "com.example.sicor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165085302606-87gu3giph6877868qnnr27isupu6d84m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIIs2Ng7lKa6jb6x49BpHp-Per11mtycs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165085302606-87gu3giph6877868qnnr27isupu6d84m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
